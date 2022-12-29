@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    align-items: center;
+    padding-left: 25%;
+}
+
+div {
+    padding: 1rem;
+    margin: 10% 20%;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 60%;
+    background-color: #ddd;
+    color: #000;
+    border: none;
+
+}
